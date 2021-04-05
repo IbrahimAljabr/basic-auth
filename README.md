@@ -4,7 +4,7 @@ Class401-Lab03
 
 [Action](https://github.com/IbrahimAljabr/basic-auth/actions)
 
-[Pull Request](https://github.com/IbrahimAljabr/basic-auth/pulls/2)
+[Pull Request](https://github.com/IbrahimAljabr/basic-auth/pull/2)
 
 **UML Diagram**
 
