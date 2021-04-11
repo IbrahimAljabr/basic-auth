@@ -1,14 +1,15 @@
 # basic-auth
 
 Class401-Lab03
+[Heroku](https://authentication-6.herokuapp.com/)
 
 [Action](https://github.com/IbrahimAljabr/basic-auth/actions)
 
-[Pull Request](https://github.com/IbrahimAljabr/basic-auth/pulls/2)
+[Pull Request](https://github.com/IbrahimAljabr/basic-auth/pulls/3)
 
 **UML Diagram**
 
-![Heroku](/uml2.png)
+![Heroku](/uml6.png)
 
 ### How do I install the app or library?
 
